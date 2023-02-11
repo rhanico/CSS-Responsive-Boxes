@@ -31,10 +31,7 @@ li a {
   color: black;
 }
 
-.container {
-  margin-bottom: 10px;
+header{
+  width: 100%;
 }
 
-.c {
-  margin: 10px 5px 5px 5px ;
-}
