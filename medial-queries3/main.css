@@ -30,3 +30,11 @@ header {
   justify-content: space-between;
 }
 
+footer{
+  width: 40%;
+  display: flex;
+  flex-direction: column
+  
+  
+}
+
